@@ -47,6 +47,7 @@ For each plot you should
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
+https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png
 
 ##Reviewing the Assignments
 
