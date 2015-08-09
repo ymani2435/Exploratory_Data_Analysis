@@ -53,10 +53,11 @@ When you are finished with the assignment, push your git repository to GitHub so
 This is repository for the Coursera Course "Exploratory Data Analysis".
 
 To run this script, please do the following:
-
+* Create a local folder (e.g C:/Course Project 1)
 * Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to a local directory
 * Download the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
-* Extract the data from zip file into the ./Data subdirectory
+* Extract the data from zip file into the ./Data subdirectory (e.g C:/Course Project 1/Data)
+* Set working Directory using setwd command e.g setwd("C:/Course Project 1")
 
 Run the scripts in R Studio
 - source("plot1.R")
