@@ -48,27 +48,17 @@ For each plot you should
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
 
+##Course Project 1
 
-##Reviewing the Assignments
+This is repository for the Coursera Course "Exploratory Data Analysis".
 
-Keep in mind this course is about exploratory graphs, understanding the data, and developing strategies. Here's a good quote from a swirl lesson about exploratory graphs: "They help us find patterns in data and understand its properties. They suggest modeling strategies and help to debug analyses. We DON'T use exploratory graphs to communicate results."
+To run this script, please do the following:
 
-The rubrics should always be interpreted in that context.
-
-As you do your evaluation, please keep an open mind and focus on the positive. The goal is not to deduct points over small deviations from the requirements or for legitimate differences in implementation styles, etc. Look for ways to give points when it's clear that the submitter has given a good faith effort to do the project, and when it's likely that they've succeeded. Most importantly, it's okay if a person did something differently from the way that you did it. The point is not to see if someone managed to match your way of doing things, but to see if someone objectively accomplished the task at hand.
-
-To that end, keep the following things in mind:
-
-###DO
-
-* Review the source code.
-* Keep an open mind and focus on the positive.≤/li>
-* When in doubt, err on the side of giving too many points, rather than giving too few.
-* Ask yourself if a plot might answer a question for the person who created it.
-* Remember that not everyone has the same statistical background and knowledge.
-
-###DON'T:
-
-* Deduct just because you disagree with someone's statistical methods.
-* Deduct just because you disagree with someone's plotting methods.
-* Deduct based on aesthetics.
+* Download the scripts (plit1.R, plot2.R, plot3.R, plot4.R) to a local directory
+* Download the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+* Extract the data into the ./Data subdirectory
+* Run the scripts 
+**  source("plot1.R")
+**  source("plot2.R")
+**  source("plot3.R")
+**  source("plot4.R")
